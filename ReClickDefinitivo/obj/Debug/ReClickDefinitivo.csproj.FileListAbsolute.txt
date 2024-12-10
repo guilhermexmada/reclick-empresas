@@ -1,0 +1,306 @@
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.exe.config
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.exe
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.pdb
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.csprojResolveAssemblyReference.cache
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Cadastro.resources
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Calculadora.resources
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Entrar.resources
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Home.resources
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Properties.Resources.resources
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.csproj.GenerateResource.Cache
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.exe
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.pdb
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.dll
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\MySql.Data.dll
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Buffers.dll
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Memory.dll
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ZstdNet.dll
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.pdb
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.xml
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\MySql.Data.xml
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Buffers.xml
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Memory.xml
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano1.resources
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano2.resources
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano3.resources
+C:\Users\ds-tec-3\Documents\PA LUIZ\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano4.resources
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.exe.config
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.exe
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.pdb
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.exe
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.pdb
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.dll
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\MySql.Data.dll
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Buffers.dll
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Memory.dll
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ZstdNet.dll
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.pdb
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.xml
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\MySql.Data.xml
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Buffers.xml
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Memory.xml
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.csprojResolveAssemblyReference.cache
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Cadastro.resources
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Calculadora.resources
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Entrar.resources
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Home.resources
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano1.resources
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano2.resources
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano3.resources
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano4.resources
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Properties.Resources.resources
+C:\Users\ds-tec-3\Desktop\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.csproj.GenerateResource.Cache
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.exe.config
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.exe
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.pdb
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.exe
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.pdb
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\BouncyCastle.Crypto.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Hash.xxHash.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\MySql.Data.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Buffers.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Memory.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Ubiety.Dns.Core.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ZstdNet.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\BouncyCastle.Crypto.xml
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.pdb
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.xml
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.xml
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Hash.xxHash.xml
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\MySql.Data.xml
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Buffers.xml
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Memory.xml
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.csprojResolveAssemblyReference.cache
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Cadastro.resources
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Calculadora.resources
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Entrar.resources
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Home.resources
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano1.resources
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano2.resources
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano3.resources
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano4.resources
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Properties.Resources.resources
+D:\ReClickDefinitivo\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.csproj.GenerateResource.Cache
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.exe.config
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.exe
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.pdb
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.exe
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.pdb
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.dll
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\MySql.Data.dll
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Buffers.dll
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Memory.dll
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ZstdNet.dll
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.pdb
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.xml
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\MySql.Data.xml
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Buffers.xml
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Memory.xml
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.csprojResolveAssemblyReference.cache
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Cadastro.resources
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Calculadora.resources
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Entrar.resources
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Home.resources
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano1.resources
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano2.resources
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano3.resources
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano4.resources
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Properties.Resources.resources
+C:\Users\ds-tec-3\Documents\guilhermeshimadapereira\DTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.csproj.GenerateResource.Cache
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.exe.config
+D:\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.exe
+D:\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.pdb
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.exe
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.pdb
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\BouncyCastle.Crypto.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Hash.xxHash.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\MySql.Data.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Buffers.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Memory.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Ubiety.Dns.Core.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ZstdNet.dll
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\BouncyCastle.Crypto.xml
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.pdb
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.xml
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.xml
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Hash.xxHash.xml
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\MySql.Data.xml
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Buffers.xml
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Memory.xml
+D:\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.csprojResolveAssemblyReference.cache
+D:\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Cadastro.resources
+D:\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Calculadora.resources
+D:\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Entrar.resources
+D:\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Home.resources
+D:\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano1.resources
+D:\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano2.resources
+D:\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano3.resources
+D:\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano4.resources
+D:\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Properties.Resources.resources
+D:\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.csproj.GenerateResource.Cache
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.exe.config
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.exe
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.pdb
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.csprojResolveAssemblyReference.cache
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Cadastro.resources
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Calculadora.resources
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Entrar.resources
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Home.resources
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano1.resources
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano2.resources
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano3.resources
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano4.resources
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Properties.Resources.resources
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.csproj.GenerateResource.Cache
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.exe
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.pdb
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\BouncyCastle.Crypto.dll
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.dll
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.dll
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Hash.xxHash.dll
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\MySql.Data.dll
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Buffers.dll
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Memory.dll
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Ubiety.Dns.Core.dll
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ZstdNet.dll
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\BouncyCastle.Crypto.xml
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.pdb
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.xml
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.xml
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Hash.xxHash.xml
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\MySql.Data.xml
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Buffers.xml
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Memory.xml
+D:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.exe.config
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.exe
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.pdb
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.exe
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.pdb
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\BouncyCastle.Crypto.dll
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.dll
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.dll
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Hash.xxHash.dll
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\MySql.Data.dll
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Buffers.dll
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Memory.dll
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Ubiety.Dns.Core.dll
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ZstdNet.dll
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\BouncyCastle.Crypto.xml
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.pdb
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.xml
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.xml
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Hash.xxHash.xml
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\MySql.Data.xml
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Buffers.xml
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Memory.xml
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.csprojResolveAssemblyReference.cache
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Cadastro.resources
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Calculadora.resources
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Entrar.resources
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Home.resources
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano1.resources
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano2.resources
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano3.resources
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano4.resources
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Properties.Resources.resources
+E:\TUDOdoTCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.csproj.GenerateResource.Cache
+C:\Users\ds-tec-3\Desktop\APRESENTACAO_FINAL_TCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.exe.config
+C:\Users\ds-tec-3\Desktop\APRESENTACAO_FINAL_TCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.exe
+C:\Users\ds-tec-3\Desktop\APRESENTACAO_FINAL_TCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.pdb
+D:\APRESENTACAO_FINAL_TCC\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.exe.config
+D:\APRESENTACAO_FINAL_TCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.exe
+D:\APRESENTACAO_FINAL_TCC\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.exe.config
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\MySql.Data.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Buffers.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Memory.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\ZstdNet.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\Google.Protobuf.xml
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\MySql.Data.xml
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Buffers.xml
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Memory.xml
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.csprojResolveAssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Cadastro.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Calculadora.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Entrar.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Home.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano1.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano2.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano3.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Plano4.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Properties.Resources.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.csproj.GenerateResource.Cache
+C:\Users\guilh\OneDrive\Área de Trabalho\ReClickDefinitivo\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.Lixeira.resources
+C:\Users\guilh\OneDrive\Documentos\GitHub\reclick-empresas\ReClickDefinitivo\bin\Debug\ReClickDefinitivo.exe.config
+C:\Users\guilh\OneDrive\Documentos\GitHub\reclick-empresas\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.exe
+C:\Users\guilh\OneDrive\Documentos\GitHub\reclick-empresas\ReClickDefinitivo\obj\Debug\ReClickDefinitivo.pdb
